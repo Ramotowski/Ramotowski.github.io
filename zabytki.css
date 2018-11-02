@@ -1,0 +1,40 @@
+body{
+	width:90%;
+	margin:0 auto;
+	font-family: 'Krub', sans-serif;
+	}
+footer{
+	text-align:right;
+	font-family: 'Indie Flower', cursive;
+	font-size:1.6rem;
+	}
+h1{
+	text-align: center;
+	margin:0;
+	}
+p{
+	margin:0;
+	text-align: justify;
+	width:100%;
+	height:100%;
+	}
+#polishFlag, #englishFlag{
+	width: 35px;
+	height: 25px;
+	float:right;
+	margin-left:5px;
+	margin-top: 10px;
+	} 
+#englishFlag:hover, #polishFlag:hover{
+	cursor: pointer;
+	}
+#author{
+	margin-bottom: 0px;
+	}
+.monumentsPhotos{
+	width:100%;
+	}
+.row{
+	margin-bottom: 20px;
+	}
+
